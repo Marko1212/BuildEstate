@@ -132,6 +132,7 @@ nav ul li a {
   display: block;
   width: 100%;
   margin-top: 21.28px;
+  height: 400px;
 }
 
 .main1 h3 {
@@ -256,10 +257,6 @@ li#house {
   padding: 0;
 }
 
-#contactPage ul li {
-  float: left;
-}
-
 #contact img {
   display: inline-block;
   height: 20px;
@@ -366,4 +363,9 @@ footer div {
 .copyright {
   text-align: center;
   margin: 0px auto 30px auto;
+}
+
+
+.clear {
+  clear: both;
 }
